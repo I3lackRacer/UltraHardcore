@@ -1,6 +1,6 @@
 name: UltraHardcore
-version: 1.0
+version: 1.1
 author: I3lackRacer
 main: UltraHardcore
 api-version: 1.16
-description: 'UltraHardcore only golden apples can regenerate your health!!!'
+description: 'UltraHardcore only food can regenerate your health!!!'

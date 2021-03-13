@@ -1,2 +1,4 @@
-apple_reg: 10
-carrot_reg: 6
+food:
+  golden_apple: 6
+  golden_carrot: 1
+  entchanted_golden_apple: 20
